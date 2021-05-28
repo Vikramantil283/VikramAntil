@@ -11,6 +11,7 @@ private val tag= "BaseActivity"
         setContentView(layoutID)
        // super.onNightModeChanged()
         AppCompatDelegate.setDefaultNightMode(AppCompatDelegate.MODE_NIGHT_NO)
+
         initUI()
         initListener()
         setData()
@@ -23,3 +24,4 @@ private val tag= "BaseActivity"
     abstract fun setData()
 
 }
+//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

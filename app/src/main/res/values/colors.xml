@@ -1,10 +1,69 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#018786</color>
+
+    <color name="black">#000000</color>
+    <color name="grey">#7e7e78</color>
+    <color name="greyLight">#efefef</color>
+    <color name="white">#ffffff</color>
+    <color name="colorSelectedTab">#303F9F</color>
+    <color name="colorUnselectedTab">#703F51B5</color>
+
+    <!--<color name="colorUnselectedTab">#703F51B5</color>-->
+
+    <color name="white80">#CCFFFFFF</color>
+    <color name="white65">#AAFFFFFF</color>
+    <color name="white50">#99FFFFFF</color>
+
+    <color name="black80">#CC000000</color>
+    <color name="black65">#AA000000</color>
+    <color name="black50">#99000000</color>
+    <color name="shipmentStarted">#ffd488</color>
+    <color name="shipmentDelivered">#76eac4</color>
+    <color name="shipmentInWay">#f1f7fd</color>
+
+    <color name="dark_grey">#434343</color>
+    <color name="colorOrange">#E27657</color>
+    <color name="lightGrey">#EEEEEE</color>
+    <color name="blue">#0000ff</color>
+    <color name="buttonColor">#00BBBB</color>
+    <color name="monthCardColor">#D6FFFF</color>
+    <color name="quarterCardColor">#E3FFC7</color>
+    <color name="color3">#66CECE</color>
+    <color name="color4">#8CD146</color>
+    <color name="color5">#009789</color>
+    <color name="profitColor">#2FA703</color>
+    <color name="lossColor">#BF0404</color>
+    <color name="darkGray">#898989</color>
+    <color name="barBueColor">#7CA1CE</color>
+    <color name="DarkRed">#800404</color>
+
+    <drawable name="greencard">#66CECE</drawable>
     <color name="purple_200">#FFBB86FC</color>
     <color name="purple_500">#FF6200EE</color>
     <color name="purple_700">#FF3700B3</color>
     <color name="teal_200">#FF03DAC5</color>
     <color name="teal_700">#FF018786</color>
-    <color name="black">#FF000000</color>
-    <color name="white">#FFFFFFFF</color>
+    <color name="silver">#c0c0c0</color>
+    <color name="white_dark">#f5f5f5</color>
+    <color name="white_teal">#edeeef</color>
+    <color name="Light_Blue">#ADD8E6</color>
+    <color name="Light_Red">#ffcccb</color>
+    <color name="Red">#FF0000</color>
+    <color name="Neon_Blue">#1F51FF</color>
+    <color name="sapphire_blue">#0F52BA</color>
+    <color name="ultramarine">#0437F2</color>
+    <color name="blue_teal">#0091FF</color>
+    <color name="dark_light_blue">#3399FF</color>
+    <color name="yellow">#FFFF99</color>
+    <color name="green">#00FF06</color>
+    <color name="dark_green">#228B22</color>
+    <color name="ownfleetcolor">#E89569</color>
+    <color name="taskBlueColor">#1f75fe</color>
+    <color name="taskpartially">#e1ad01</color>
+    <color name="blueButton">#223d7e</color>
+    <color name="highlightBlue">#0047ab</color>
+
 </resources>

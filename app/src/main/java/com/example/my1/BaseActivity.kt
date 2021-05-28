@@ -22,6 +22,4 @@ private val tag= "BaseActivity"
 
     abstract fun setData()
 
-
-
 }
